@@ -58,6 +58,12 @@
   .banner-three-section .fullscreen {
     height: 900px !important;
   }
+  .banner-section {
+    background: url(../img/head-sm.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
 }
 
 @media (max-width: 576px) {
